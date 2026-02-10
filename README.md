@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Anzal Hussain</h1>
-<h3 align="center">Junoir Data Scientist</h3>
+<h3 align="center">Machine learing Engreer</h3>
 <p align="center">
 
 </p>
