@@ -1,37 +1,18 @@
+# 💫 About Me:
+🤖 Working on: AI projects & recommendation systems<br>🤝 Open to collaborate: ML / AI projects<br>📚 Learning: Deep Learning & Neural Networks<br>💬 Ask me about: ML, Python, SQL<br>⚡ Fun fact: I’m a poet who codes 😄
 
 
-<h1 align="center">Anzal Hussain</h1>
-<h3 align="center">Machine learing Engreer</h3>
-<p align="center">
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anzal0204) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/انزل حسین انزل) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anzalhussainanzal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anzal Hussain) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anzal hussain) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@انزل حسین انزل شاعر 🍁) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Jashan-e-sukhan (جشنِ سخن)) 
 
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anzal-hussain-Anzal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anzal-hussain-Anzal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anzal-hussain-Anzal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalnia+Glaze&weight=500&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Data+Science;Artificial+Intelligence;Machine+Learning;Deep+Learning;Neural+Networks;Computer+Vision;Natural+Language+Precessing;Experienced+Canva+Designer;" alt="Typing SVG" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Anzal-hussain-Anzal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Languages:
-![img icons8](https://github.com/user-attachments/assets/2a687552-a59d-4bf3-9717-2a64ebd9262a)
-
-# Tools:
-![img icons8](https://github.com/user-attachments/assets/59a57b5d-69e2-4437-8b19-2e3968fe55d5)
-![img icons8](https://github.com/user-attachments/assets/d565e522-5b9d-4efc-a73f-a5da448ef9d6)
-![img icons8](https://github.com/user-attachments/assets/6e437439-9860-4110-8738-65ed8044a51a)
-![img icons8](https://github.com/user-attachments/assets/a9081fc2-b572-4020-83b6-50bdf5b54c53) 
-![img icons8](https://github.com/user-attachments/assets/29b0655d-e7e1-4d7b-86fe-d0aa20d349cb)
-![img icons8](https://github.com/user-attachments/assets/6c67d0b1-a45b-4b5a-9125-414ef01b1f2b)
-![img icons8](https://github.com/user-attachments/assets/8caeec5e-39e6-4171-aa1e-5c42c44050da)
-![img icons8](https://github.com/user-attachments/assets/0125f6d8-6abf-4f7e-8175-4b2913724788)
-![img icons8](https://github.com/user-attachments/assets/0496cea0-58dc-476a-8cfc-e4c0c0e555e9)
-![img icons8](https://github.com/user-attachments/assets/f9f8b0d6-9122-4acc-a73a-15f165c066b4)
-# Libraries And Frameworks:
-![devicon--numpy (1)](https://github.com/user-attachments/assets/bd309672-ad04-4ece-ba81-e71f3f618abf)
-![devicon--pandas](https://github.com/user-attachments/assets/452466a2-d7a2-4a0a-a4e0-ee653e7daa02)
-![devicon--matplotlib](https://github.com/user-attachments/assets/5a9a9b78-cb80-4ec5-85ca-b4ab170de5dd)
-![simple-icons--scipy](https://github.com/user-attachments/assets/f6df6ec4-6ba6-4254-9b20-fe320e2643e0)
-![logos--seaborn-icon](https://github.com/user-attachments/assets/d5427c39-522d-4ac5-9911-c05658175cc2)
-![devicon--keras (1)](https://github.com/user-attachments/assets/71d89dbf-e2fc-4608-b452-fc7214901115)
-![devicon--pytorch](https://github.com/user-attachments/assets/4b2c4b9e-0329-4869-92b7-2e206a83276b)
-![devicon--tensorflow](https://github.com/user-attachments/assets/bf32ef60-d2ca-406a-875b-68d7721455cf)
-![skill-icons--scikitlearn-dark](https://github.com/user-attachments/assets/1069fd50-f905-4b0a-a74d-75fd32f61c52)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
